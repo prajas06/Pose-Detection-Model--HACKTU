@@ -1,0 +1,17 @@
+{
+  "curl": {
+    "torso_target": 180,
+    "elbow_hip_dx_target": 0.02,
+    "wrist_elbow_dx_target": 0.01
+  },
+  "squat": {
+    "torso_target": 180,
+    "knee_track_dx_target": 0.03,
+    "hip_center_dx_target": 0.02
+  },
+  "press": {
+    "torso_target": 180,
+    "wrist_elbow_dx_target": 0.01,
+    "shoulder_symmetry_dy_target": 0.01
+  }
+}
